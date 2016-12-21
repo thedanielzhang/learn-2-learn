@@ -1,0 +1,10 @@
+C:\repos\learn-2-learn\SpotifyExperiment\bin\Debug\SpotifyExperiment.exe.config
+C:\repos\learn-2-learn\SpotifyExperiment\bin\Debug\SpotifyExperiment.exe
+C:\repos\learn-2-learn\SpotifyExperiment\bin\Debug\SpotifyExperiment.pdb
+C:\repos\learn-2-learn\SpotifyExperiment\bin\Debug\Newtonsoft.Json.dll
+C:\repos\learn-2-learn\SpotifyExperiment\bin\Debug\SpotifyAPI.dll
+C:\repos\learn-2-learn\SpotifyExperiment\bin\Debug\Newtonsoft.Json.xml
+C:\repos\learn-2-learn\SpotifyExperiment\bin\Debug\SpotifyAPI.xml
+C:\repos\learn-2-learn\SpotifyExperiment\obj\Debug\SpotifyExperiment.csprojResolveAssemblyReference.cache
+C:\repos\learn-2-learn\SpotifyExperiment\obj\Debug\SpotifyExperiment.exe
+C:\repos\learn-2-learn\SpotifyExperiment\obj\Debug\SpotifyExperiment.pdb
